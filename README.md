@@ -5,3 +5,6 @@ One touch on either the text or the seekbar will toggle the switch on or off, an
 Upon toggling On/Off you can also indicate if a image and or color change will happen.  
 
 See example for details on how to use this.
+
+
+![Preview](https://raw.githubusercontent.com/username/project/master/image-path/image.png)
