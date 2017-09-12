@@ -384,4 +384,8 @@ public class AnimatedTextSwitch extends LinearLayout {
     void setText(String text){
         mTextView.setText(text);
     }
+    
+    boolean isSwitchedOn(){
+        return mSeekBar.getProgress() > mSeekBar.getMax()/2;
+    }
 }
