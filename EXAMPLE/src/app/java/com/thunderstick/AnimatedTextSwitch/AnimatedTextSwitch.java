@@ -1,4 +1,3 @@
-package com.thunderstick.animatedtextswitch;
 
 import android.content.Context;
 import android.content.res.TypedArray;
