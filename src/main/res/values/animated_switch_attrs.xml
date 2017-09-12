@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <declare-styleable name="AnimatedTextSwitch">
+        <attr name="on_icon" format="integer"/>
+        <attr name="off_icon" format="integer"/>
+        <attr name="on_touch_icon" format="integer"/>
+        <attr name="on_release_icon" format="integer"/>
+        <attr name="on_touch_icon_background" format="integer"/>
+        <attr name="on_release_icon_background" format="integer"/>
+        <attr name="on_progress_background" format="integer"/>
+        <attr name="off_progress_background" format="integer"/>
+        <attr name="off_color" format="color"/>
+        <attr name="on_color" format="color"/>
+        <attr name="max" format="integer"/>
+        <attr name="textOrientaion" format="string"/>
+        <attr name="text" format="string"/>
+        <attr name="textImage" format="integer"/>
+    </declare-styleable>
+</resources>
