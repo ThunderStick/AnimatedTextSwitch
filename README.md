@@ -7,4 +7,4 @@ Upon toggling On/Off you can also indicate if a image and or color change will h
 See example for details on how to use this.
 
 
-![Preview](https://raw.githubusercontent.com/username/project/master/image-path/image.png)
+![Preview](https://raw.githubusercontent.com/ThunderStick/AnimatedTextSwitch/master/example_animatedTextSwitch.gif)
